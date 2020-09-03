@@ -10,7 +10,6 @@ class MainActivity : AppCompatActivity() {
     //текст всплывающего сообщения
     val msgText = "Hello world!"
     val duration = Toast.LENGTH_LONG
- //   val toast = Toast.makeText(applicationContext, msgText, duration)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
